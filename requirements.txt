@@ -1,0 +1,8 @@
+os
+streamlit
+python-dotenv
+datasets
+langchain
+openai
+faiss-cpu
+sentence-transformers
